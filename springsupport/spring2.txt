@@ -1,0 +1,6 @@
+<bean id = "messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
+<property name="basenames">
+<list>
+</list>
+</property>
+</bean>
